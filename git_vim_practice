@@ -3,3 +3,4 @@ git add filename/untracked->unmodified(tracked)
 edit and save the file/unmodified(tracked)->unstaged (tracked/modified)
 git add filename/unstaged (tracked/modified)->staged (tracked/modified)
 git commit/staged(tracked/modified)->unmodified
+untracked/unmodified/unstaged/staged/unmodified
