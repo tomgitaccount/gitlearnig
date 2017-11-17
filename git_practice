@@ -6,3 +6,6 @@ git commit/staged(tracked/modified)->unmodified
 untracked/unmodified/unstaged/staged/unmodified
 
 git add filename/git commit
+
+
+undo staged files
