@@ -1,0 +1,15 @@
+normal mode
+
+insert mode
+
+"copy mode"
+
+esc -> normal mode;
+h,l,shift+^,shift+$,w,e,b.
+k,j,gg,shift+g,shift+h,shift+l,:number,
+
+i->insert mode; a->insert mode;
+
+v->"choose mode";
+yaw,yy,vy,p
+daw,dd,x
