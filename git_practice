@@ -9,3 +9,10 @@ git add filename/git commit
 
 
 undo staged files
+
+git branch/show all branch names
+
+git branch branchname/create a new branch
+
+git checkout branchname/choose a branch
+git checkout -b branchname/git branch branchename + git checkout branchname
