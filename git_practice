@@ -16,3 +16,7 @@ git branch branchname/create a new branch
 
 git checkout branchname/choose a branch
 git checkout -b branchname/git branch branchename + git checkout branchname
+
+git branch branchname,git merge anotherbranchname
+git branch -delete anotherbranchname
+
