@@ -18,5 +18,10 @@ git checkout branchname/choose a branch
 git checkout -b branchname/git branch branchename + git checkout branchname
 
 git branch branchname,git merge anotherbranchname
-git branch -delete anotherbranchname
+git branch --delete anotherbranchname/delete branch,
+git branch -D [branch-name]/delete forcement the branch
+
+git push [remote-name] --delete [branch-name]/ delete the remote branch [remote-name]/[branch-name]
+
+git rebase [branch-name] /rebase the current branch to [branch-name]
 
