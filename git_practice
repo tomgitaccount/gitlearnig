@@ -20,6 +20,7 @@ git checkout -b branchname/git branch branchename + git checkout branchname
 git branch branchname,git merge anotherbranchname
 git branch --delete anotherbranchname/delete branch,
 git branch -D [branch-name]/delete forcement the branch
+git push [remote-name] [branch-name]/create a new remote branch [branch-name] and push the local branch [branch-name] to the new remote branch [branch-name]
 
 git push [remote-name] --delete [branch-name]/ delete the remote branch [remote-name]/[branch-name]
 
